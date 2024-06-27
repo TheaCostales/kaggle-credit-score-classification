@@ -56,11 +56,7 @@ Given a person’s credit-related information, build a machine learning model th
 **Payment_of_Min_Amount:** Represents whether only the minimum amount was paid by the person
 
 **Total_EMI_per_month:** Represents the monthly EMI payments (in USD)
-
 **Amount_invested_monthly:** Represents the monthly amount invested by the customer (in USD)
-
 **Payment_Behaviour:** Represents the payment behavior of the customer (in USD)
-
 **Monthly_Balance:** Represents the monthly balance amount of the customer (in USD)
-
 **Credit_Score:** Represents the bracket of credit score (Poor, Standard, Good)
