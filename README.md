@@ -64,3 +64,5 @@ Given a person’s credit-related information, build a machine learning model th
 **Monthly_Balance:** Represents the monthly balance amount of the customer (in USD)
 
 **Credit_Score:** Represents the bracket of credit score (Poor, Standard, Good)
+
+Test update
