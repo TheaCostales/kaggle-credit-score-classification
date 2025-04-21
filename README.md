@@ -1,4 +1,5 @@
 # kaggle-credit-score-classification
+### Notebook: https://nbviewer.org/github/TheaCostales/kaggle-credit-score-classification/blob/main/Credit_Score_Classification.ipynb
 ### About Dataset
 **Problem Statement**
 
